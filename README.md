@@ -1,2 +1,2 @@
 # leet
-practise
+practice
